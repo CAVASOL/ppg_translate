@@ -1,4 +1,4 @@
-## PAPAGO Translator
+## Translator
 
 Translator designed to work only on the Android simulator using the Papago translation API.
 
